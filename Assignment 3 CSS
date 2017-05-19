@@ -1,0 +1,48 @@
+body {
+    width: 914px;
+    height: 1102px;
+}
+
+.top {
+    background-color: darkmagenta;
+    width: inherit;
+    height: 124px;
+}
+
+.bottom {
+    background-color: #F5F5F5;
+    width: inherit;
+    padding-left: 135px;
+    padding-right: 135px;
+    height: 978px; 
+}
+
+.center {    
+    width: auto;
+    height: 828px;   
+    background-color: red;
+    padding: 75px;
+}
+
+.blue_square {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    padding: 25px;
+    margin-bottom: 40px;
+}
+
+
+.yellow_square {
+    width: 125px;
+    height: 125px;
+    background-color: yellow;
+    float: left;
+}
+
+.green_square {
+    width: 249px;
+    height: 175px;
+    background-color: green;
+    float: right;
+}
