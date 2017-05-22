@@ -1,0 +1,28 @@
+
+
+.jumbotron {
+	height: 500px;
+	background-image: url("http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg");
+	color: white;
+
+
+p {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+	text-align: center;
+
+}
+
